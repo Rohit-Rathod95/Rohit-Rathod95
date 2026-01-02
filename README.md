@@ -58,22 +58,6 @@ I am a **backend-focused full stack developer** passionate about building **scal
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohit-Rathod95&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rohit-Rathod95&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Rathod95&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-
----
 
 ## 🌍 Connect with Me
 
