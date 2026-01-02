@@ -1,84 +1,89 @@
-# Rohit Rathod ⚙️
+<h1 align="center">Hi 👋, I'm Rohit Rathod</h1>
+<h3 align="center">Backend Developer | Full Stack Engineer | Cloud & GenAI Enthusiast</h3>
 
-Backend Developer | API Engineer | Cloud & GenAI Enthusiast  
-B.Tech ECE @ RCOEM Nagpur (2023–2027)  
-Backend Developer Intern @ Aylark  
-
----
-
-## 🧠 Backend-Focused Summary
-
-I am a **backend-heavy full stack developer** specializing in **RESTful APIs, authentication systems, database design, and cloud-native architectures**.
-
-Currently working at **Aylark**, where I design and optimize backend services for **production-scale applications**, including **GenAI-powered systems** using AWS.
-
-My core interest lies in:
-- Scalable backend systems
-- API performance & security
-- Cloud + Serverless architectures
-- Real-world problem solving
+<p align="center">
+🎓 B.Tech ECE @ RCOEM Nagpur (2023–2027) <br/>
+💼 Backend Developer Intern @ Aylark <br/>
+📍 Nagpur, India
+</p>
 
 ---
 
-## 🛠 Backend Tech Stack
+## 👨‍💻 About Me
 
-**Languages**
-- Java, JavaScript
+I’m Rohit, and it’s great to have you here!  
+I am a **backend-focused full stack developer** passionate about building **scalable APIs, secure authentication systems, and cloud-native applications**.
 
-**Backend**
-- Node.js, Express.js
-- REST APIs, JWT, OTP Authentication
-- API Design, Middleware Architecture
-
-**Databases**
-- MySQL, PostgreSQL, MongoDB
-- Firebase (Auth, Firestore)
-
-**Cloud**
-- AWS EC2, S3, Lambda, API Gateway
-- AWS Bedrock (GenAI), AWS Polly
-
-**Tools**
-- Git, GitHub, Postman, Linux
+- 🔭 Currently working on **production backend systems & GenAI apps**
+- 🌱 Exploring **open source & GSoC 2026**
+- ⚙️ Strong interest in **API design, performance & scalability**
+- 🤝 Open to **open-source & backend collaborations**
 
 ---
 
-## 💼 Experience
+## 🚀 Technologies & Tools
 
-### Backend Developer Intern — Aylark (Dec 2025 – Present)
-- Designed and developed **RESTful backend services** using Node.js & Express
-- Implemented **OTP-based authentication** with Twilio & JWT
-- Worked on **deployment & environment configurations**
-- Collaborated in Agile sprints using GitHub
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp,html,css,react,nodejs,express,mysql,postgres,mongodb,firebase,aws,linux,git,github,postman,vscode" />
+</p>
 
 ---
 
-## 🚀 Key Backend Projects
+## 🛠 Backend Skill Focus
 
-### TrustLens — GenAI Financial Document Analyzer
-- Serverless backend using **AWS Lambda + API Gateway**
+- RESTful API Design & Architecture  
+- JWT & OTP-based Authentication  
+- Database Design (SQL & NoSQL)  
+- Cloud Deployment (AWS EC2, Lambda, S3, Bedrock)  
+- Performance Optimization & Caching  
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 TrustLens — GenAI Financial Document Analyzer
+- Serverless backend using **AWS Lambda & API Gateway**
 - Integrated **AWS Bedrock** for document intelligence
-- Focused on **API reliability & scalability**
+- Focused on scalability & API reliability
 
-### VidyaVani — Voice-First AI Teaching Assistant
-- Backend system for **voice-based AI interactions**
+### 🔹 VidyaVani — AI Voice-First Teaching Assistant
+- Multilingual voice-based backend system
 - Reduced API usage by **60–80% using caching**
-- Designed APIs for multilingual content delivery
+- AWS Polly + Bedrock powered AI flows
 
-### Campus Connect — Student Housing Platform
+### 🔹 Campus Connect — Student Housing Platform
 - JWT-secured REST APIs
 - Role-based access control
-- Database-driven listings & map integration
+- MySQL + Firebase integration
 
 ---
-
-## 📫 Contact
-📧 rohit2703rathod@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/rohit-rathod-31400a292  
-🐙 GitHub: https://github.com/Rohit-Rathod95
 
 ## 📊 GitHub Stats
 
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit-Rathod95&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Rathod95&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=Rohit-Rathod95&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohit-Rathod95&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Rathod95&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Rathod95&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌍 Connect with Me
+
+<p align="center">
+  <a href="mailto:rohit2703rathod@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rohit-rathod-31400a292"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://github.com/Rohit-Rathod95"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rohit-Rathod95&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
