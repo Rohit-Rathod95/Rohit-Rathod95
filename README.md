@@ -24,7 +24,7 @@ I am a **backend-focused full stack developer** passionate about building **scal
 ## 🚀 Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,nextjs,html,css,react,nodejs,express,mysql,postgres,mongodb,firebase,aws,linux,git,github,postman,vscode,supabase" />
+  <img src="https://skillicons.dev/icons?i=java,js,nextjs,typescript,html,css,react,nodejs,express,mysql,postgres,mongodb,firebase,aws,linux,git,github,postman,vscode,supabase" />
 </p>
 
 ---
