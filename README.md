@@ -1,74 +1,107 @@
-<h1 align="center">Hi 👋, I'm Rohit Rathod</h1>
-<h3 align="center">Backend Developer | Full Stack Engineer | Cloud & GenAI Enthusiast</h3>
+# ⚡ Rohit Rathod
+
+> Building systems that don’t break. Scaling ideas into reality. Shipping things that matter.
 
 <p align="center">
-🎓 B.Tech ECE @ RCOEM Nagpur (2023–2027) <br/>
-💼 Backend Developer Intern @ Aylark <br/>
-📍 Nagpur, India
+  <img src="https://komarev.com/ghpvc/?username=Rohit-Rathod95&label=Visitors&color=blue&style=flat" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 Who am I?
 
-I’m Rohit, and it’s great to have you here!  
-I am a **backend-focused full stack developer** passionate about building **scalable APIs, secure authentication systems, and cloud-native applications**.
+I’m Rohit — a **backend-first engineer** who enjoys:
 
-- 🔭 Currently working on **production backend systems & GenAI apps**
-- 🌱 Exploring **open source & GSoC 2026**
-- ⚙️ Strong interest in **API design, performance & scalability**
-- 🤝 Open to **open-source & backend collaborations**
+- Designing **clean, scalable APIs**
+- Breaking monoliths into **well-architected services**
+- Turning **ideas into production systems**
+- Obsessing over **performance, security & reliability**
+
+Currently:
+- 🏗️ Building real production systems at **Aylark**
+- 🧪 Experimenting with **GenAI + Cloud + Automation**
+- 🌍 Preparing for **Open Source & GSoC 2026**
 
 ---
 
-## 🚀 Technologies & Tools
+## 🧩 My Engineering Philosophy
+
+> “If it works but doesn’t scale, it’s broken.”
+
+- ✦ Architecture > Frameworks  
+- ✦ Simplicity > Overengineering  
+- ✦ Reliability > Fancy features  
+- ✦ Automation > Manual work  
+
+---
+
+## 🔥 What I Actually Build
+
+- ⚙️ Authentication systems (JWT, OTP, RBAC)
+- 🚀 High-performance REST APIs
+- 🧠 GenAI backends using AWS Bedrock
+- ☁️ Cloud-native systems (EC2, Lambda, S3)
+- 🗄️ SQL + NoSQL data architectures
+- 🧪 Caching, rate-limiting, background jobs
+
+---
+
+## 🏗️ Selected Builds
+
+### 🧠 TrustLens
+> GenAI Financial Document Intelligence Platform  
+- Serverless AWS backend  
+- Bedrock-powered document understanding  
+- Built for **scale & reliability**
+
+### 🎙️ VidyaVani
+> Voice-first AI Teaching Assistant  
+- Multilingual AI pipelines  
+- Reduced API costs by **60–80% via caching**  
+- Polly + Bedrock + smart orchestration
+
+### 🏫 Campus Connect
+> Student Housing Platform  
+- Secure role-based backend  
+- JWT auth, MySQL + Firebase  
+- Production-style API architecture
+
+---
+
+## 🛠 My Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,nextjs,typescript,html,css,react,nodejs,express,mysql,postgres,mongodb,firebase,aws,linux,git,github,postman,vscode,supabase" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,express,react,nextjs,mysql,postgres,mongodb,firebase,aws,linux,git,github,postman,supabase" />
 </p>
 
 ---
 
-## 🛠 Backend Skill Focus
+## 🧭 Current Focus
 
-- RESTful API Design & Architecture  
-- JWT & OTP-based Authentication  
-- Database Design (SQL & NoSQL)  
-- Cloud Deployment (AWS EC2, Lambda, S3, Bedrock)  
-- Performance Optimization & Caching  
-
----
-
-## 📌 Featured Projects
-
-### 🔹 TrustLens — GenAI Financial Document Analyzer
-- Serverless backend using **AWS Lambda & API Gateway**
-- Integrated **AWS Bedrock** for document intelligence
-- Focused on scalability & API reliability
-
-### 🔹 VidyaVani — AI Voice-First Teaching Assistant
-- Multilingual voice-based backend system
-- Reduced API usage by **60–80% using caching**
-- AWS Polly + Bedrock powered AI flows
-
-### 🔹 Campus Connect — Student Housing Platform
-- JWT-secured REST APIs
-- Role-based access control
-- MySQL + Firebase integration
+- 🧱 Designing **large-scale backend systems**
+- ⚡ Learning **system design deeply**
+- 🧠 Advanced **cloud + GenAI infra**
+- 🌍 Entering serious **open-source**
 
 ---
 
+## 🧪 Fun Facts
 
-## 🌍 Connect with Me
+- I enjoy refactoring more than writing new code
+- I break things just to understand how they fail
+- I care about folder structure more than UI colors
+- I think good logs are underrated
+
+---
+
+## 🤝 Let’s Build Something Serious
 
 <p align="center">
-  <a href="mailto:rohit2703rathod@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/rohit-rathod-31400a292"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://github.com/Rohit-Rathod95"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/></a>
+  <a href="mailto:rohit2703rathod@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/rohit-rathod-31400a292"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/></a>
+  <a href="https://github.com/Rohit-Rathod95"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge"/></a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rohit-Rathod95&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+> ⚡ “Your code is your signature. Make it worth reading.”
