@@ -46,7 +46,7 @@ motto: "Clean code, reliable systems, happy production."
 <img src="https://skillicons.dev/icons?i=aws,linux,git,github,docker&theme=dark&perline=5" alt="Cloud & Tools" />
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase&theme=dark&perline=5" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,supabase&theme=dark&perline=5" alt="Databases" />
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark&perline=5" alt="Frontend" />
