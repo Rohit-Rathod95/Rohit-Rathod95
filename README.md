@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Rohit+Rathod!+👋;Building+Scalable+Backend+Systems+🚀;Cloud+%26+GenAI+Infrastructure+☁️;3rd+Year+CS+Undergrad+🎓" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Rohit+Rathod!+👋;Building+Scalable+Backend+Systems+🚀;Cloud+%26+GenAI+Infrastructure+☁️;3rd+Year+ECE+Undergrad+🎓" alt="Typing SVG" />
 
 <br/>
 
@@ -23,7 +23,7 @@
 name: Rohit Rathod
 location: Nagpur, India 📍
 role: Backend Engineer @ Aylark
-education: 3rd Year Computer Science & Engineering 🎓
+education: 3rd Year Electronics and Communication & Engineering 🎓
 focus: 
   - Backend Architecture & Scalable Systems
   - Cloud Infrastructure (AWS)
