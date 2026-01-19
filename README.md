@@ -1,70 +1,93 @@
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3200&pause=1000&color=9CA3AF&center=true&vCenter=true&width=550&lines=Hey%20there%2C%20I'm%20Rohit!;Building+scalable+backend+systems;Cloud+%26+GenAI+infrastructure;3rd+year+CS+undergrad" alt="Typing SVG" />
 
-# Rohit Rathod  
-### Backend Engineering • Cloud Systems • GenAI Infrastructure
+  <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=6B7280&center=true&vCenter=true&width=520&lines=Backend+Engineering;Scalable+Systems;Cloud+%26+GenAI+Infrastructure" />
+  <img src="https://komarev.com/ghpvc/?username=Rohit-Rathod95&label=Profile+Views&color=6B7280&style=flat-square" alt="Profile views" />
 
-<img src="https://komarev.com/ghpvc/?username=Rohit-Rathod95&label=Profile%20Views&color=6B7280&style=flat" />
+  <br/><br/>
 
+  <h1>Rohit Rathod</h1>
+  <h3>Backend Engineering • Cloud Systems • GenAI Infrastructure</h3>
+
+  <img width="320" src="https://github.com/Rohit-Rathod95/Rohit-Rathod95/assets/XXXXXXX/XXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX" alt="Personal banner / subtle abstract background" />
+  <!-- Optional: replace with your own subtle banner or remove this line -->
+</div>
+
+<br/>
+
+---
+
+### 🌐 About Me
+
+- 🎓 3rd year Computer Science & Engineering student  
+- 💼 Backend Engineer at **Aylark**  
+- 🛠 Focused on backend architecture, scalable systems, cloud infra & GenAI pipelines  
+- 🚀 Preparing for **GSoC 2026**  
+- 📍 Nagpur, India  
+
+> "Clean code, reliable systems, happy production."  
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,express,go&theme=dark" alt="Backend & Languages" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform&theme=dark" alt="Cloud & Infra" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase&theme=dark" alt="Databases" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,git,github,linux&theme=dark" alt="Tools & Others" />
 </div>
 
 ---
 
-## About
+### 🔍 Areas I Love Working On
 
-- 3rd year engineering student  
-- Backend Engineer @ **Aylark**  
-- Interested in backend systems, cloud infrastructure, and system design  
-- Preparing for **GSoC 2026**  
-- Based in Nagpur, India  
-
----
-
-## Technical Skills
-
-**Backend & Languages**  
-![Skills](https://skillicons.dev/icons?i=js,ts,nodejs,java,express&theme=light)
-
-**Cloud & Tools**  
-![Skills](https://skillicons.dev/icons?i=aws,linux,git,github&theme=light)
-
-**Databases**  
-![Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase&theme=light)
-
-**Frontend**  
-![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,css,html&theme=light)
+- 🏗 Backend architecture & clean API design  
+- ☁️ Cloud-native infrastructure & DevOps practices  
+- ⚙️ Distributed systems fundamentals  
+- 🔐 Authentication, security patterns & observability  
+- 📈 Performance tuning & horizontal scaling  
+- 🤖 GenAI backend infrastructure (LLM serving, RAG, vector DBs)  
 
 ---
 
-## Areas of Interest
-
-- Backend architecture and API design  
-- Cloud infrastructure and deployment  
-- Distributed systems basics  
-- System design concepts  
-- Security and authentication  
-- Performance and scalability  
-
----
-
-## GitHub
+### 📊 GitHub Activity
 
 <div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rohit-Rathod95&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Rathod95&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak Stats" />
+</div>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rohit-Rathod95&show_icons=true&theme=graywhite&hide_border=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Rathod95&theme=graywhite&hide_border=true" />
-
+<div align="center">
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit-Rathod95&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="85%"/>
 </div>
 
 ---
 
-## Contact
+### 📬 Let's Connect
 
 <div align="center">
+  <a href="https://github.com/Rohit-Rathod95">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48"/>
+  </a>
+</div>
 
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Rohit-Rathod95)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:yourmail@gmail.com)
+<br/>
 
+<div align="center">
+  <sub>Thanks for stopping by ✦ Made with ❤️ in Nagpur</sub>
 </div>
