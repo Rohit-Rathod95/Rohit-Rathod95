@@ -36,7 +36,7 @@
 ![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase&theme=dark)
 
 ### 🎨 Frontend (Enough to survive 😄)
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,React native,tailwind,bootstrap,CSS, HTML &theme=dark)
 
 ---
 
