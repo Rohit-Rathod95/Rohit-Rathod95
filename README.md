@@ -1,95 +1,70 @@
 <div align="center">
 
-# 🌌 Rohit Rathod  
-### Backend Engineer | Cloud & System Design | GenAI Infrastructure
+# Rohit Rathod  
+### Backend Engineering • Cloud Systems • GenAI Infrastructure
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Exploring+the+Backend+Universe;Building+Scalable+Systems;Cloud+%26+GenAI+Engineer/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=6B7280&center=true&vCenter=true&width=520&lines=Backend+Engineering;Scalable+Systems;Cloud+%26+GenAI+Infrastructure" />
 
-<img src="https://komarev.com/ghpvc/?username=Rohit-Rathod95&label=Profile%20Views&color=8b5cf6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Rohit-Rathod95&label=Profile%20Views&color=6B7280&style=flat" />
 
 </div>
 
 ---
 
-## 🪐 About Me
+## About
 
-- 🎓 3rd Year Engineering Student  
-- 🏗 Backend Engineer @ **Aylark**  
-- ☁️ Building **scalable cloud & GenAI systems**  
-- 🎯 Target: **GSoC 2026**  
-- 🌱 Obsessed with **System Design, Distributed Systems & Performance**  
-- 📍 Nagpur, Maharashtra, India  
-
-> *"I don’t chase frameworks. I design systems."*
+- 3rd year engineering student  
+- Backend Engineer @ **Aylark**  
+- Interested in backend systems, cloud infrastructure, and system design  
+- Preparing for **GSoC 2026**  
+- Based in Nagpur, India  
 
 ---
 
-## 🌠 Tech Stack
+## Technical Skills
 
-### 🛠 Backend & Languages
-![Skills](https://skillicons.dev/icons?i=js,ts,nodejs,java,express&theme=dark)
+**Backend & Languages**  
+![Skills](https://skillicons.dev/icons?i=js,ts,nodejs,java,express&theme=light)
 
-### ☁️ Cloud & Infrastructure
-![Skills](https://skillicons.dev/icons?i=aws,linux,git,github&theme=dark)
+**Cloud & Tools**  
+![Skills](https://skillicons.dev/icons?i=aws,linux,git,github&theme=light)
 
-### 🗄 Databases & Caching
-![Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase&theme=dark)
+**Databases**  
+![Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase&theme=light)
 
-### 🎨 Frontend (Enough to survive 😄)
-![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,css,html&theme=dark)
-
----
-
-## 🛰 What I Actually Build
-
-- 🔐 Authentication Systems (JWT, OAuth, RBAC)
-- ⚡ High-performance REST APIs
-- ☁️ Serverless & Cloud-native backends
-- 🧠 GenAI pipelines (Bedrock, RAG, cost-optimized inference)
-- 📦 Caching systems & performance layers
-- 🧱 Scalable backend architectures
+**Frontend**  
+![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,css,html&theme=light)
 
 ---
 
-## 🌌 Current Focus
+## Areas of Interest
 
-- 🪐 Distributed Systems & Scalability
-- ☁️ Cloud Architecture & Cost Optimization
-- 🧠 GenAI Infrastructure
-- 🔐 Security Engineering
-- 🏗 System Design Mastery
-- 🌍 Open Source contributions (GSoC 2026)
+- Backend architecture and API design  
+- Cloud infrastructure and deployment  
+- Distributed systems basics  
+- System design concepts  
+- Security and authentication  
+- Performance and scalability  
 
 ---
 
-## 📊 GitHub Stats
+## GitHub
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rohit-Rathod95&show_icons=true&theme=midnight-purple&hide_border=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Rathod95&theme=midnight-purple&hide_border=true" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Rathod95&layout=compact&theme=midnight-purple&hide_border=true" />
-<img width="48%" src="https://github-profile-trophy.vercel.app/?username=Rohit-Rathod95&theme=darkhub&no-frame=true&no-bg=true&row=1&column=4" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rohit-Rathod95&show_icons=true&theme=graywhite&hide_border=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Rathod95&theme=graywhite&hide_border=true" />
 
 </div>
 
 ---
 
-## 🌍 Connect With Me
+## Contact
 
 <div align="center">
 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Rohit-Rathod95)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:yourmail@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 🌌 *"Design systems like universes: scalable, stable, and infinite."*
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:yourmail@gmail.com)
 
 </div>
