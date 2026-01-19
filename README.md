@@ -10,8 +10,12 @@
   <h1>Rohit Rathod</h1>
   <h3>Backend Engineering • Cloud Systems • GenAI Infrastructure</h3>
 
-  <img width="320" src="https://github.com/Rohit-Rathod95/Rohit-Rathod95/assets/XXXXXXX/XXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX" alt="Personal banner / subtle abstract background" />
-  <!-- Optional: replace with your own subtle banner or remove this line -->
+  <!-- Banner Image -->
+  <img 
+    width="720" 
+    src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1600&auto=format&fit=crop" 
+    alt="Abstract tech banner" 
+  />
 </div>
 
 <br/>
@@ -26,20 +30,27 @@
 - 🚀 Preparing for **GSoC 2026**  
 - 📍 Nagpur, India  
 
-> "Clean code, reliable systems, happy production."  
+> "Clean code, reliable systems, happy production."
 
 ---
 
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,express,go&theme=dark" alt="Backend & Languages" />
+  <!-- Backend & Languages -->
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,express&theme=dark" alt="Backend & Languages" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform&theme=dark" alt="Cloud & Infra" />
+
+  <!-- Cloud & Tools -->
+  <img src="https://skillicons.dev/icons?i=aws,linux,git,github&theme=dark" alt="Cloud & Tools" />
   <br/><br/>
+
+  <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase&theme=dark" alt="Databases" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,git,github,linux&theme=dark" alt="Tools & Others" />
+
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="Frontend" />
 </div>
 
 ---
@@ -47,11 +58,11 @@
 ### 🔍 Areas I Love Working On
 
 - 🏗 Backend architecture & clean API design  
-- ☁️ Cloud-native infrastructure & DevOps practices  
+- ☁️ Cloud-native systems & backend infrastructure  
 - ⚙️ Distributed systems fundamentals  
 - 🔐 Authentication, security patterns & observability  
-- 📈 Performance tuning & horizontal scaling  
-- 🤖 GenAI backend infrastructure (LLM serving, RAG, vector DBs)  
+- 📈 Performance tuning & scalability  
+- 🤖 GenAI backend infrastructure (RAG, LLM integration, inference pipelines)  
 
 ---
 
@@ -77,7 +88,7 @@
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="https://www.linkedin.com/in/rohit-rathod-31400a292/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48"/>
   </a>
   &nbsp;&nbsp;&nbsp;
