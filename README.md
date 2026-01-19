@@ -3,7 +3,7 @@
 # 🌌 Rohit Rathod  
 ### Backend Engineer | Cloud & System Design | GenAI Infrastructure
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Exploring+the+Backend+Universe;Building+Scalable+Systems;Cloud+%26+GenAI+Engineer;Future+GSoC+2026+Contributor" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Exploring+the+Backend+Universe;Building+Scalable+Systems;Cloud+%26+GenAI+Engineer/>
 
 <img src="https://komarev.com/ghpvc/?username=Rohit-Rathod95&label=Profile%20Views&color=8b5cf6&style=for-the-badge" />
 
