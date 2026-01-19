@@ -46,7 +46,7 @@ motto: "Clean code, reliable systems, happy production."
 <img src="https://skillicons.dev/icons?i=aws,linux,git,github,docker&theme=dark&perline=5" alt="Cloud & Tools" />
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase&theme=dark&perline=5" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase, supabase &theme=dark&perline=5" alt="Databases" />
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark&perline=5" alt="Frontend" />
@@ -106,7 +106,7 @@ motto: "Clean code, reliable systems, happy production."
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rohit-Rathod95&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Rathod95&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9&dates=6B7280" alt="Streak Stats" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Rohit-Rathod95&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9&dates=6B7280" alt="Streak Stats" />
 </div>
 
 <br/>
