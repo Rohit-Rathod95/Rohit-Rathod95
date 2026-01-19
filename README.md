@@ -27,16 +27,16 @@
 ## 🌠 Tech Stack
 
 ### 🛠 Backend & Languages
-![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,java,express&theme=dark)
+![Skills](https://skillicons.dev/icons?i=js,ts,nodejs,java,express&theme=dark)
 
 ### ☁️ Cloud & Infrastructure
-![My Skills](https://skillicons.dev/icons?i=aws,linux,git,github&theme=dark)
+![Skills](https://skillicons.dev/icons?i=aws,linux,git,github&theme=dark)
 
 ### 🗄 Databases & Caching
-![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase&theme=dark)
+![Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase&theme=dark)
 
 ### 🎨 Frontend (Enough to survive 😄)
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,React native,tailwind,bootstrap,CSS, HTML &theme=dark)
+![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,css,html&theme=dark)
 
 ---
 
@@ -90,6 +90,6 @@
 
 <div align="center">
 
-### 🌌 *"Design systems like universes: scalable, stable, and infinite."*  
+### 🌌 *"Design systems like universes: scalable, stable, and infinite."*
 
 </div>
