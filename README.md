@@ -5,6 +5,15 @@
 
 <br/>
 
+<br/>
+
+<a href="https://portfolio-kj3k.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_My_Portfolio-Visit_Now-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br/><br/>
+
+
 <!-- Profile Views Badge -->
 <img src="https://komarev.com/ghpvc/?username=Rohit-Rathod95&label=Profile+Views&color=3B82F6&style=for-the-badge" alt="Profile views" />
 
