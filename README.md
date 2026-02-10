@@ -114,15 +114,8 @@ motto: "Clean code, reliable systems, happy production."
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rohit-Rathod95&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rohit-Rathod95&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Rohit-Rathod95)
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-dev.vercel.app/api?username=Rohit-Rathod95&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&rank_icon=github" alt="Rohit's GitHub Stats" height="200" />
-  <img src="https://github-readme-stats-git-masterrstaa-dev.vercel.app/api/top-langs/?username=Rohit-Rathod95&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&layout=compact&langs_count=8&hide=html,css" alt="Top Languages" height="200" />
 </div>
 
 <br/>
