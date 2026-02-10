@@ -112,41 +112,50 @@ motto: "Clean code, reliable systems, happy production."
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rohit-Rathod95&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&cache_seconds=1800" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Rathod95&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&layout=compact&langs_count=8&cache_seconds=1800" alt="Top Languages" />
-</p>
-
-<br/>
-
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohit-Rathod95&theme=tokyonight" alt="Profile Summary" width="95%"/>
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rohit-Rathod95&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rohit-Rathod95&theme=tokyonight" alt="Repos per Language" />
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rohit-Rathod95&theme=tokyonight" alt="Most Commit Language" />
+  <a href="https://github.com/Rohit-Rathod95">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rohit-Rathod95&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&rank_icon=github" alt="Rohit's GitHub Stats" height="192px" />
+  </a>
+  <a href="https://github.com/Rohit-Rathod95">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Rathod95&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&layout=compact&langs_count=8&hide=html,css" alt="Top Languages" height="192px" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rohit-Rathod95&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rohit-Rathod95&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohit-Rathod95&theme=tokyonight" alt="Profile Summary" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit-Rathod95&custom_title=Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=60A5FA&area=true&hide_border=true&area_color=1E40AF" alt="Contribution Graph" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rohit-Rathod95&theme=tokyonight" alt="Repos per Language" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rohit-Rathod95&theme=tokyonight" alt="Most Commit Language" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rohit-Rathod95&theme=tokyonight" alt="Stats" width="32%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Rathod95&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rohit-Rathod95&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit-Rathod95&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=60A5FA" alt="Contribution Graph" width="49%"/>
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rohit-Rathod95&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 <br/>
@@ -158,7 +167,7 @@ motto: "Clean code, reliable systems, happy production."
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Website-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kj3k.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Rohit--Rathod95-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohit-Rathod95)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit%20Rathod-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-rathod-31400a292/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohit1212rathod@gmail.com)
 
 </div>
 
