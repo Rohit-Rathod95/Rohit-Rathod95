@@ -114,7 +114,7 @@ motto: "Clean code, reliable systems, happy production."
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rohit-Rathod95&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Rohit-Rathod95)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Rohit-Rathod95&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 
 </div>
 
@@ -141,10 +141,48 @@ motto: "Clean code, reliable systems, happy production."
 
 <br/>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rohit-Rathod95&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Total_Repos-20-3B82F6?style=for-the-badge&logo=github&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Public_Repos-20-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Total_Commits-211+-blue?style=for-the-badge&logo=git&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/2026_Commits-211-orange?style=for-the-badge&logo=github&logoColor=white" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Longest_Streak-12_days-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Current_Streak-12_days-success?style=for-the-badge&logo=github&logoColor=white" />
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## 💼 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Rohit-Rathod95">
+  <img src="https://img.shields.io/badge/🚀_Backend_Systems-Explore-3B82F6?style=for-the-badge" />
+</a>
+<a href="https://github.com/Rohit-Rathod95">
+  <img src="https://img.shields.io/badge/☁️_Cloud_Projects-View-00ADD8?style=for-the-badge" />
+</a>
+<a href="https://github.com/Rohit-Rathod95">
+  <img src="https://img.shields.io/badge/🤖_GenAI_Work-Check_Out-FF6B6B?style=for-the-badge" />
+</a>
+
 </div>
 
 <br/>
@@ -166,6 +204,14 @@ motto: "Clean code, reliable systems, happy production."
   
 ### 💡 Open to Collaborate On
 Backend Systems • Cloud Architecture • GenAI Projects • Open Source Contributions
+
+<br/>
+
+### 📈 Profile Stats
+
+![](https://komarev.com/ghpvc/?username=Rohit-Rathod95&color=3B82F6&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/Rohit-Rathod95?label=Followers&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/Rohit-Rathod95?label=Total%20Stars&style=social)
 
 <br/>
 
