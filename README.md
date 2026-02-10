@@ -13,7 +13,6 @@
 
 <br/><br/>
 
-
 <!-- Profile Views Badge -->
 <img src="https://komarev.com/ghpvc/?username=Rohit-Rathod95&label=Profile+Views&color=3B82F6&style=for-the-badge" alt="Profile views" />
 
@@ -32,7 +31,7 @@
 name: Rohit Rathod
 location: Nagpur, India 📍
 role: Backend Engineer @ Aylark
-education: 3rd Year Electronics and Communication & Engineering 🎓
+education: 3rd Year Electronics and Communication Engineering 🎓
 focus: 
   - Backend Architecture & Scalable Systems
   - Cloud Infrastructure (AWS)
@@ -113,10 +112,10 @@ motto: "Clean code, reliable systems, happy production."
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rohit-Rathod95&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Rathod95&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&layout=compact" alt="Top Languages" />
-</div>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rohit-Rathod95&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&cache_seconds=1800" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Rathod95&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&layout=compact&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+</p>
 
 <br/>
 
@@ -124,16 +123,30 @@ motto: "Clean code, reliable systems, happy production."
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohit-Rathod95&theme=tokyonight" alt="Profile Summary" width="95%"/>
 </div>
 
+<br/>
+
 <div align="center">
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rohit-Rathod95&theme=tokyonight" alt="Repos per Language" />
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rohit-Rathod95&theme=tokyonight" alt="Most Commit Language" />
+</div>
+
+<br/>
+
+<div align="center">
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rohit-Rathod95&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rohit-Rathod95&theme=tokyonight" alt="Stats" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit-Rathod95&custom_title=Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=60A5FA&area=true&hide_border=true&area_color=1E40AF" alt="Contribution Graph" width="95%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Rathod95&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak"/>
 </div>
 
 <br/>
