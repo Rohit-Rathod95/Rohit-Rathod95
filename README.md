@@ -121,12 +121,8 @@ motto: "Clean code, reliable systems, happy production."
 <br/>
 
 <div align="center">
-  <a href="https://github.com/Rohit-Rathod95">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rohit-Rathod95&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&rank_icon=github" alt="Rohit's GitHub Stats" height="192px" />
-  </a>
-  <a href="https://github.com/Rohit-Rathod95">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Rathod95&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&layout=compact&langs_count=8&hide=html,css" alt="Top Languages" height="192px" />
-  </a>
+  <img src="https://github-readme-stats-git-masterrstaa-dev.vercel.app/api?username=Rohit-Rathod95&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&rank_icon=github" alt="Rohit's GitHub Stats" height="200" />
+  <img src="https://github-readme-stats-git-masterrstaa-dev.vercel.app/api/top-langs/?username=Rohit-Rathod95&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&layout=compact&langs_count=8&hide=html,css" alt="Top Languages" height="200" />
 </div>
 
 <br/>
