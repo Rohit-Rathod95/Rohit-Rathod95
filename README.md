@@ -48,7 +48,7 @@ motto: "Clean code, reliable systems, happy production."
 <div align="center">
 
 ### Languages & Backend
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,express&theme=dark&perline=5" alt="Backend & Languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,express,Python&theme=dark&perline=5" alt="Backend & Languages" />
 
 ### Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=aws,linux,git,github,docker&theme=dark&perline=5" alt="Cloud & Tools" />
