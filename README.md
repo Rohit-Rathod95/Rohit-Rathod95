@@ -30,7 +30,7 @@
 ```yaml
 name: Rohit Rathod
 location: Nagpur, India 📍
-role: Backend Engineer @ Aylark
+role: Backend Engineer, Full Stack Developer, Cloud Engineer 
 education: 3rd Year Electronics and Communication Engineering 🎓
 focus: 
   - Backend Architecture & Scalable Systems
