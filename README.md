@@ -31,7 +31,7 @@
 name: Rohit Rathod
 location: Nagpur, India 📍
 role: Backend Engineer, Full Stack Developer, Cloud Engineer 
-education: 3rd Year Electronics and Communication Engineering 🎓
+education: 4th Year Electronics and Communication Engineering 🎓
 focus: 
   - Backend Architecture & Scalable Systems
   - Cloud Infrastructure (AWS)
